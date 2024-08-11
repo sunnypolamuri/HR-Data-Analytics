@@ -13,9 +13,9 @@ In this project, we worked with a dataset containing employee attendance records
 
 # Dataset
 
-Name: Attendance Sheet 2022-2023
-Source: AtliQ Technologies
-Description: The dataset includes detailed records of employee attendance over a one-year period. It has been anonymized to protect employee privacy.
+*Name: Attendance Sheet 2022-2023
+*Source: AtliQ Technologies
+*Description: The dataset includes detailed records of employee attendance over a one-year period. It has been anonymized to protect employee privacy.
 
 # Tools & Technologies Used
 
