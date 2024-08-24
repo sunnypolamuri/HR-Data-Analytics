@@ -9,7 +9,7 @@ presence.
 
 # Project Summary
 
-In this project, we worked with a dataset containing employee attendance records from AtliQ Technologies for the period of 2022-2023. An HR representative from AtliQ conveyed their requirements, and based on these, we developed a comprehensive Power BI dashboard. The dashboard provides insights into various employee metrics, which are crucial for the HR department’s strategic planning.
+In this project, I worked with a dataset containing employee attendance records from AtliQ Technologies for the period of 2022-2023. An HR representative from AtliQ conveyed their requirements, and based on these, we developed a comprehensive Power BI dashboard. The dashboard provides insights into various employee metrics, which are crucial for the HR department’s strategic planning.
 
 # Dataset
 
